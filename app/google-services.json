@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95528273988",
+    "project_id": "sanskruti-4b049",
+    "storage_bucket": "sanskruti-4b049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95528273988:android:72227637a8759a0e4bd411",
+        "android_client_info": {
+          "package_name": "com.sanskruti.volotek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95528273988-7psrgequrhcc3nmg9h1dnncf4sj3frmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanskruti.volotek",
+            "certificate_hash": "f49ae67724a3dfd533ee43c9bc6f7d8b09b57f81"
+          }
+        },
+        {
+          "client_id": "95528273988-819n7rvn1s2ieuldhj273df8f7cp8807.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzCGVtP6FfHaIkrKJ4sNxVW3xUoVCN49E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95528273988-819n7rvn1s2ieuldhj273df8f7cp8807.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Set the solid color of the box (background color) -->
+    <solid android:color="#FFFFFF" /> <!-- Replace with your desired color code -->
+
+    <!-- Set the stroke (border) color and width (optional) -->
+    <stroke
+        android:width="2dp"
+        android:color="#022143" />    <!-- Replace with your desired border width -->
+
+    <!-- Set the corner radius (optional, for rounded corners) -->
+    <corners android:radius="4dp" /> <!-- Replace with your desired corner radius -->
+
+</shape>
